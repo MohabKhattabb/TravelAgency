@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Seaside Resort",
+    "location": "Oceanview Boulevard, Miami"
+  },
+  {
+    "id": 2,
+    "name": "Mountain Escape",
+    "location": "Highpeak Road, Denver"
+  },
+  {
+    "id": 3,
+    "name": "Urban Hotel",
+    "location": "Downtown Crossing, Boston"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "message": "Meeting scheduled at 10 AM.",
+    "readStatus": false,
+    "type": "Reminder",
+    "content": "Don't miss your meeting at 10 AM.",
+    "status": "Unread",
+    "user": {
+      "id": 101,
+      "name": "John Doe"
+    }
+  },
+  {
+    "id": 2,
+    "message": "Payment due tomorrow.",
+    "readStatus": true,
+    "type": "Alert",
+    "content": "Please pay your invoice by tomorrow.",
+    "status": "Read",
+    "user": {
+      "id": 102,
+      "name": "Jane Smith"
+    }
+  }
+]
